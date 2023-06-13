@@ -1,0 +1,10 @@
+* modf
+
+A setf like macro for functional programming
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/smithzvk/modf.git   |
+| commit  | dea93fe  |
+| systems | modf |
+|---------+-------------------------------------------|
+
